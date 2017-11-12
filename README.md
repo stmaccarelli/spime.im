@@ -1,2 +1,2 @@
 # spime.im
-spime.im webzite
+spime.im website
